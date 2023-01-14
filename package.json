@@ -1,0 +1,8 @@
+{
+  "name": "backend-example-dependency-injection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuripinheirot/backend-example-dependency-injection.git",
+  "author": "Yuri Pinheiro <yuripinheirot@gmail.com>",
+  "license": "MIT"
+}
